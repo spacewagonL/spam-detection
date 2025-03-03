@@ -51,7 +51,7 @@ With the increasing use of mobile messaging, spam messages have become a major i
 
 SVM (Support Vector Machine) performed the best, achieving the highest recall and accuracy in spam detection.
 
-# Unsupervised Learning Performance Summary
+## Unsupervised Learning Performance Summary
 - K-Means and PCA failed to form clear clusters due to the complexity of SMS text data.
 - Hierarchical Clustering and DBSCAN produced poor silhouette scores, indicating weak separation.
 - LDA and NMF (Topic Modeling) provided some insights but did not distinctly separate spam and ham messages.
