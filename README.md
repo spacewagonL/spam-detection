@@ -68,6 +68,6 @@ SVM (Support Vector Machine) performed the best, achieving the highest recall an
    pip install scikit-learn nltk matplotlib seaborn xgboost wordcloud notebook
 2. Clone repository
    ``` git clone https://github.com/spacewagonL/spam-detection.git ```
-3. Run the jupyter notebook
+3. Run the jupyter notebook `SMS Spam Classification.ipynb`
    
 
