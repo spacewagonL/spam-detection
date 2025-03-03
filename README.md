@@ -40,7 +40,7 @@ With the increasing use of mobile messaging, spam messages have become a major i
   - Ham messages contain a higher proportion of stopwords, indicating a more natural conversation style.
   - Spam messages use fewer stopwords, making them more keyword-driven.
 
-## Model Performance Summary
+## Supervised Learning Performance Summary
 
 | Model | Accuracy | Spam Precision | Spam Recall | Spam F1-Score |
 |--------|---------|---------------|------------|-------------|
@@ -51,7 +51,7 @@ With the increasing use of mobile messaging, spam messages have become a major i
 
 SVM (Support Vector Machine) performed the best, achieving the highest recall and accuracy in spam detection.
 
-## Challenges in Unsupervised Learning
+# Unsupervised Learning Performance Summary
 - K-Means and PCA failed to form clear clusters due to the complexity of SMS text data.
 - Hierarchical Clustering and DBSCAN produced poor silhouette scores, indicating weak separation.
 - LDA and NMF (Topic Modeling) provided some insights but did not distinctly separate spam and ham messages.
