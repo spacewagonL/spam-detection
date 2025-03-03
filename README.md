@@ -20,7 +20,8 @@ With the increasing use of mobile messaging, spam messages have become a major i
     - Unsupervised: `K-Means`, `PCA`, `Hierarchical Clustering`, `LDA`, `DBSCAN`
 
 ## Dataset
-- **Source**: [UCI Machine Learning Repository - SMS Spam Collection](https://doi.org/10.24432/C5CC84)  
+- **Source**: [UCI Machine Learning Repository - SMS Spam Collection](https://doi.org/10.24432/C5CC84)
+- also included in the repository as `SMSSpamCollection`
 - **Size**: 5,574 SMS messages labeled as **ham** or **spam**.
 - **Preprocessing**:
   - Text cleaning (lowercasing, punctuation removal, tokenization, stopword removal).
