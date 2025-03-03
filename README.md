@@ -64,5 +64,9 @@ SVM (Support Vector Machine) performed the best, achieving the highest recall an
 ## How to Run the Project
 1. Install dependencies:
    ```bash
-   pip install scikit-learn nltk matplotlib seaborn xgboost wordcloud
+   pip install scikit-learn nltk matplotlib seaborn xgboost wordcloud notebook
+2. Clone repository
+   ``` git clone https://github.com/spacewagonL/spam-detection.git ```
+3. Run the jupyter notebook
+   
 
